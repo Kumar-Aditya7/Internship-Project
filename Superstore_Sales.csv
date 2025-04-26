@@ -1,0 +1,21 @@
+Order ID,Order Date,City,Category,Sales,Profit
+CA-2022-100000,06/04/2022,New York,Technology,465.61,193.9
+CA-2022-100001,06/20/2022,Houston,Furniture,170.3,283.28
+CA-2022-100002,04/22/2022,Philadelphia,Furniture,607.57,241.07
+CA-2022-100003,07/08/2022,New York,Office Supplies,303.95,170.38
+CA-2022-100004,03/28/2022,New York,Technology,915.69,173.85
+CA-2022-100005,11/09/2022,Houston,Furniture,884.08,136.55
+CA-2022-100006,08/13/2022,Los Angeles,Office Supplies,187.84,-93.02
+CA-2022-100007,01/06/2022,Philadelphia,Office Supplies,333.22,-79.34
+CA-2022-100008,06/24/2022,Los Angeles,Office Supplies,243.4,83.39
+CA-2022-100009,12/16/2022,Los Angeles,Office Supplies,615.66,246.58
+CA-2022-100010,08/06/2022,Los Angeles,Technology,944.47,-79.59
+CA-2022-100011,01/17/2022,Chicago,Technology,525.69,15.66
+CA-2022-100012,12/02/2022,Houston,Furniture,727.18,140.46
+CA-2022-100013,04/18/2022,Chicago,Office Supplies,725.18,-15.16
+CA-2022-100014,07/05/2022,Houston,Technology,486.83,269.17
+CA-2022-100015,08/05/2022,Los Angeles,Furniture,188.61,-9.16
+CA-2022-100016,02/13/2022,Chicago,Office Supplies,597.52,39.37
+CA-2022-100017,06/11/2022,Philadelphia,Technology,118.07,246.62
+CA-2022-100018,12/16/2022,Philadelphia,Furniture,919.83,132.62
+CA-2022-100019,01/28/2022,Los Angeles,Furniture,356.23,58.69
